@@ -9,4 +9,9 @@ public class maths {
 		maths m = new maths();
 		System.out.println(m.power(2, 3));
 	}
+	
+	
 }
+
+
+
